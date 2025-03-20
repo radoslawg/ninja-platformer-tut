@@ -39,3 +39,5 @@ mono_crash.*.json
 
 *.old*
 # End of https://www.toptal.com/developers/gitignore/api/godot,visualstudiocode
+
+Lib/
